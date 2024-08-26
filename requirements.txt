@@ -1,0 +1,4 @@
+python-binance==1.0.19
+pybit==5.8.0
+python-dotenv==1.0.1
+loguru==0.7.2

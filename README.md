@@ -1,2 +1,2 @@
 # bijectile
- Trading bot
+ Trading bot for Binance and Bybit (DOGS)
